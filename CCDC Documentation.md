@@ -16,10 +16,10 @@ The Change Control Committee (CCC) approves any changes, however the Corporate C
 
 ## Cases
 
-![[Pasted image 20210123131638.png]]
-![[Pasted image 20210123131958.png]]
-![[Pasted image 20210123132010.png]]
-![[Pasted image 20210123132022.png]]
+![](Pasted%20image%2020210123131638.png)
+![](Pasted%20image%2020210123131958.png)
+![](Pasted%20image%2020210123132010.png)
+![](Pasted%20image%2020210123132022.png)
 
 Case 1: Requires approval of the HAL CCC to implement
 Case 2: Requires notification to the HAL CCC **after** implementation
@@ -34,8 +34,6 @@ Case 4: Change that is uncertain whether or not it requires interaction with the
 
 The artifact used to monitor these changes is the **Change Journal**. This log is then handed over to the company for an in-depth analysis. 
 
-![[Pasted image 20210216201220.png]]
-
-![[Pasted image 20210123130215.png]]
-
-![[Pasted image 20210216203202.png]]
+![](Pasted%20image%2020210216201220.png)
+![](Pasted%20image%2020210123130215.png)
+![](Pasted%20image%2020210216203202.png)
